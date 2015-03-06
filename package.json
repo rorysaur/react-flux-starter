@@ -1,7 +1,7 @@
 {
-  "name": "react-fluxxor-starter",
+  "name": "react-flux-starter",
   "version": "0.0.1",
-  "description": "a starter kit for working with React and Fluxxor",
+  "description": "a starter kit for working with React and Flux",
   "main": "app.js",
   "scripts": {
     "start": "watchify js/app.js -o js/bundle.js -v -d",
